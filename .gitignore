@@ -21,3 +21,5 @@ secure_storage/host/optee_example_secure_storage
 plugins/host/optee_example_plugins
 acipher/host/optee_example_acipher
 plugins/syslog/*.plugin
+dyn_list
+
